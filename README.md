@@ -1,4 +1,4 @@
-# surebot_app
+# Firebase_Flutter_Demo
 
 A new Flutter application.
 
