@@ -1,4 +1,4 @@
-# Firebase_Flutter_Demo
+# Flutter_Firebase_Demo
 
 A new Flutter application.
 
